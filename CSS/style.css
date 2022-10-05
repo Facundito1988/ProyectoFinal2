@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=Roboto:wght@100;300;400;500&display=swap');
+
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+  
+}
+
+.navbar{
+  background-color:  rgb(7, 54, 114) !important ;
+}
+
+.logo{
+  width: 200px;
+  height: 200px;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.principal{
+  background-image: linear-gradient(360deg, rgb(225, 230, 245) 5%, rgb(66, 128, 209) 20%, rgb(35, 97, 177) 35%, rgb(8, 70, 151) 65%, rgb(7, 54, 116) 80%);
+  /* background-color: rgb(7, 54, 114); */
+  max-width: 100%;
+  min-height: 70vh;
+  max-height: 100%;
+}
+
+.titulos{
+  background-color: rgb(194, 220, 243);
+}
+
+
+
+.sobreNosotros{
+    color: white !important;
+  }  
+
+
+  
+  .principal h1{
+    /* font-size: 3em !important; */
+    color:#7eb0f7 !important;
+  }
+
+  #footer-style {
+    background-image: linear-gradient(360deg, white 10%, rgb(235, 237, 243) 50%, rgb(227, 231, 243) 75%, rgb(225, 230, 245) 80%) !important;
+     !important;
+    font-weight: 500 !important;
+  }
+  
+  #acyede-footer {
+    color: rgb(7, 54, 114) !important;
+    font-weight: 500 !important;
+  }
+  
+  #datos-camara{
+    color: rgb(7, 54, 114) !important;
+    font-weight: 500 !important;
+  }
+
