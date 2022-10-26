@@ -1,0 +1,25 @@
+
+    .principal{
+        background-image: url(../assets/image/foto\ lamparas.jpg);
+        background-size: cover;
+        max-width: 100%;
+        min-height: 70vh;
+        max-height: 100%;
+      }
+
+      .titulos {
+        color: white;
+      }
+
+      .sobreNosotros{
+          color: white !important;
+     }  
+
+     .principal h1{
+        /* font-size: 3em !important; */
+        color:#7eb0f7 !important;
+      }
+      
+      .card-body{
+        background-color: none !important;
+      }
